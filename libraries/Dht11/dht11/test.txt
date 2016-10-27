@@ -1,0 +1,3399 @@
+DHT11 TEST PROGRAM 
+LIBRARY VERSION: 0.4.1
+
+
+
+Read sensor: OK
+Humidity (%): 79.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.09
+Dew PointFast (oC): 22.07
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.88
+Dew PointFast (oC): 21.86
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.88
+Dew PointFast (oC): 21.86
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.88
+Dew PointFast (oC): 21.86
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.88
+Dew PointFast (oC): 21.86
+
+
+Read sensor: Time out error
+Humidity (%): 78.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.88
+Dew PointFast (oC): 21.86
+
+
+Read sensor: Time out error
+Humidity (%): 78.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.88
+Dew PointFast (oC): 21.86
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.88
+Dew PointFast (oC): 21.86
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.67
+Dew PointFast (oC): 21.65
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.88
+Dew PointFast (oC): 21.86
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.67
+Dew PointFast (oC): 21.65
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.67
+Dew PointFast (oC): 21.65
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.67
+Dew PointFast (oC): 21.65
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.67
+Dew PointFast (oC): 21.65
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.88
+Dew PointFast (oC): 21.86
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.88
+Dew PointFast (oC): 21.86
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.88
+Dew PointFast (oC): 21.86
+
+
+Read sensor: OK
+Humidity (%): 79.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.09
+Dew PointFast (oC): 22.07
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.50
+Dew PointFast (oC): 22.48
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.70
+Dew PointFast (oC): 22.68
+
+
+Read sensor: OK
+Humidity (%): 83.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.90
+Dew PointFast (oC): 22.88
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.70
+Dew PointFast (oC): 22.68
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.70
+Dew PointFast (oC): 22.68
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 23.48
+Dew PointFast (oC): 23.45
+
+
+Read sensor: OK
+Humidity (%): 80.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 23.27
+Dew PointFast (oC): 23.25
+
+
+Read sensor: OK
+Humidity (%): 80.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 23.27
+Dew PointFast (oC): 23.25
+
+
+Read sensor: OK
+Humidity (%): 79.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 23.06
+Dew PointFast (oC): 23.04
+
+
+Read sensor: OK
+Humidity (%): 85.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.28
+Dew PointFast (oC): 24.26
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.86
+Dew PointFast (oC): 24.84
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 25.23
+Dew PointFast (oC): 25.21
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.86
+Dew PointFast (oC): 24.84
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 25.23
+Dew PointFast (oC): 25.21
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 25.23
+Dew PointFast (oC): 25.21
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.86
+Dew PointFast (oC): 24.84
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 25.23
+Dew PointFast (oC): 25.21
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 25.23
+Dew PointFast (oC): 25.21
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 26.22
+Dew PointFast (oC): 26.20
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 26.22
+Dew PointFast (oC): 26.20
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 26.22
+Dew PointFast (oC): 26.20
+
+
+Read sensor: OK
+Humidity (%): 91.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 26.41
+Dew PointFast (oC): 26.39
+
+
+Read sensor: OK
+Humidity (%): 91.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 26.41
+Dew PointFast (oC): 26.39
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 26.22
+Dew PointFast (oC): 26.20
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 26.22
+Dew PointFast (oC): 26.20
+
+
+Read sensor: Time out error
+Humidity (%): 90.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 26.22
+Dew PointFast (oC): 26.20
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 26.22
+Dew PointFast (oC): 26.20
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 25.23
+Dew PointFast (oC): 25.21
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 25.23
+Dew PointFast (oC): 25.21
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.86
+Dew PointFast (oC): 24.84
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.86
+Dew PointFast (oC): 24.84
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.86
+Dew PointFast (oC): 24.84
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.86
+Dew PointFast (oC): 24.84
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.86
+Dew PointFast (oC): 24.84
+
+
+Read sensor: OK
+Humidity (%): 89.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 24.06
+Dew PointFast (oC): 24.04
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 23.87
+Dew PointFast (oC): 23.85
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 23.87
+Dew PointFast (oC): 23.85
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 23.87
+Dew PointFast (oC): 23.85
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 23.87
+Dew PointFast (oC): 23.85
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 23.87
+Dew PointFast (oC): 23.85
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 23.87
+Dew PointFast (oC): 23.85
+
+
+Read sensor: OK
+Humidity (%): 86.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 23.49
+Dew PointFast (oC): 23.47
+
+
+Read sensor: OK
+Humidity (%): 86.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 23.49
+Dew PointFast (oC): 23.47
+
+
+Read sensor: OK
+Humidity (%): 86.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 23.49
+Dew PointFast (oC): 23.47
+
+
+Read sensor: OK
+Humidity (%): 86.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 23.49
+Dew PointFast (oC): 23.47
+
+
+Read sensor: OK
+Humidity (%): 86.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 23.49
+Dew PointFast (oC): 23.47
+
+
+Read sensor: OK
+Humidity (%): 85.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 23.30
+Dew PointFast (oC): 23.28
+
+
+Read sensor: OK
+Humidity (%): 83.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.90
+Dew PointFast (oC): 22.88
+
+
+Read sensor: OK
+Humidity (%): 83.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.90
+Dew PointFast (oC): 22.88
+
+
+Read sensor: OK
+Humidity (%): 83.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.90
+Dew PointFast (oC): 22.88
+
+
+Read sensor: OK
+Humidity (%): 83.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.90
+Dew PointFast (oC): 22.88
+
+
+Read sensor: OK
+Humidity (%): 83.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.90
+Dew PointFast (oC): 22.88
+
+
+Read sensor: OK
+Humidity (%): 83.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.93
+Dew PointFast (oC): 21.90
+
+
+Read sensor: OK
+Humidity (%): 83.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.93
+Dew PointFast (oC): 21.90
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.73
+Dew PointFast (oC): 21.71
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.73
+Dew PointFast (oC): 21.71
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.73
+Dew PointFast (oC): 21.71
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.73
+Dew PointFast (oC): 21.71
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.73
+Dew PointFast (oC): 21.71
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.73
+Dew PointFast (oC): 21.71
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.53
+Dew PointFast (oC): 21.50
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.53
+Dew PointFast (oC): 21.50
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.53
+Dew PointFast (oC): 21.50
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.53
+Dew PointFast (oC): 21.50
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.53
+Dew PointFast (oC): 21.50
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.73
+Dew PointFast (oC): 21.71
+
+
+Read sensor: OK
+Humidity (%): 83.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.93
+Dew PointFast (oC): 21.90
+
+
+Read sensor: OK
+Humidity (%): 83.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.93
+Dew PointFast (oC): 21.90
+
+
+Read sensor: OK
+Humidity (%): 86.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 22.51
+Dew PointFast (oC): 22.49
+
+
+Read sensor: OK
+Humidity (%): 86.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 22.51
+Dew PointFast (oC): 22.49
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 22.89
+Dew PointFast (oC): 22.87
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 22.89
+Dew PointFast (oC): 22.87
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 22.89
+Dew PointFast (oC): 22.87
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 22.89
+Dew PointFast (oC): 22.87
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 22.89
+Dew PointFast (oC): 22.87
+
+
+Read sensor: OK
+Humidity (%): 86.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 22.51
+Dew PointFast (oC): 22.49
+
+
+Read sensor: OK
+Humidity (%): 86.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 22.51
+Dew PointFast (oC): 22.49
+
+
+Read sensor: OK
+Humidity (%): 86.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 22.51
+Dew PointFast (oC): 22.49
+
+
+Read sensor: OK
+Humidity (%): 85.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 22.32
+Dew PointFast (oC): 22.30
+
+
+Read sensor: OK
+Humidity (%): 83.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.93
+Dew PointFast (oC): 21.90
+
+
+Read sensor: OK
+Humidity (%): 83.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.93
+Dew PointFast (oC): 21.90
+
+
+Read sensor: OK
+Humidity (%): 83.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.93
+Dew PointFast (oC): 21.90
+
+
+Read sensor: OK
+Humidity (%): 83.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.93
+Dew PointFast (oC): 21.90
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.73
+Dew PointFast (oC): 21.71
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.73
+Dew PointFast (oC): 21.71
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.73
+Dew PointFast (oC): 21.71
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.73
+Dew PointFast (oC): 21.71
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.73
+Dew PointFast (oC): 21.71
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 21.53
+Dew PointFast (oC): 21.50
+DHT11 TEST PROGRAM 
+LIBRARY VERSION: 0.4.1
+
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.84
+Dew PointFast (oC): 25.82
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.84
+Dew PointFast (oC): 25.82
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.84
+Dew PointFast (oC): 25.82
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.84
+Dew PointFast (oC): 25.82
+
+
+Read sensor: Checksum error
+Humidity (%): 255.00
+Temperature (oC): 255.00
+Temperature (oF): 491.00
+Temperature (K): 528.15
+Dew Point (oC): 307.01
+Dew PointFast (oC): 317.36
+
+
+Read sensor: Checksum error
+Humidity (%): 255.00
+Temperature (oC): 255.00
+Temperature (oF): 491.00
+Temperature (K): 528.15
+Dew Point (oC): 307.01
+Dew PointFast (oC): 317.36
+
+
+Read sensor: Checksum error
+Humidity (%): 255.00
+Temperature (oC): 255.00
+Temperature (oF): 491.00
+Temperature (K): 528.15
+Dew Point (oC): 307.01
+Dew PointFast (oC): 317.36
+
+
+Read sensor: Checksum error
+Humidity (%): 255.00
+Temperature (oC): 255.00
+Temperature (oF): 491.00
+Temperature (K): 528.15
+Dew Point (oC): 307.01
+Dew PointFast (oC): 317.36
+
+
+Read sensor: Checksum error
+Humidity (%): 255.00
+Temperature (oC): 255.00
+Temperature (oF): 491.00
+Temperature (K): 528.15
+Dew Point (oC): 307.01
+Dew PointFast (oC): 317.36
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.84
+Dew PointFast (oC): 25.82
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 26.22
+Dew PointFast (oC): 26.20
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 26.22
+Dew PointFast (oC): 26.20
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 26.22
+Dew PointFast (oC): 26.20
+
+
+Read sensor: OK
+Humidity (%): 90.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 26.22
+Dew PointFast (oC): 26.20
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.84
+Dew PointFast (oC): 25.82
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.84
+Dew PointFast (oC): 25.82
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.84
+Dew PointFast (oC): 25.82
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.84
+Dew PointFast (oC): 25.82
+
+
+Read sensor: OK
+Humidity (%): 88.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.84
+Dew PointFast (oC): 25.82
+
+
+Read sensor: OK
+Humidity (%): 87.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.65
+Dew PointFast (oC): 25.63
+
+
+Read sensor: OK
+Humidity (%): 87.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.65
+Dew PointFast (oC): 25.63
+
+
+Read sensor: OK
+Humidity (%): 87.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.65
+Dew PointFast (oC): 25.63
+
+
+Read sensor: OK
+Humidity (%): 87.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.65
+Dew PointFast (oC): 25.63
+
+
+Read sensor: OK
+Humidity (%): 87.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.65
+Dew PointFast (oC): 25.63
+
+
+Read sensor: OK
+Humidity (%): 87.00
+Temperature (oC): 28.00
+Temperature (oF): 82.40
+Temperature (K): 301.15
+Dew Point (oC): 25.65
+Dew PointFast (oC): 25.63
+
+
+Read sensor: OK
+Humidity (%): 85.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.28
+Dew PointFast (oC): 24.26
+
+
+Read sensor: OK
+Humidity (%): 85.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.28
+Dew PointFast (oC): 24.26
+
+
+Read sensor: OK
+Humidity (%): 85.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.28
+Dew PointFast (oC): 24.26
+
+
+Read sensor: OK
+Humidity (%): 85.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.28
+Dew PointFast (oC): 24.26
+
+
+Read sensor: OK
+Humidity (%): 85.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.28
+Dew PointFast (oC): 24.26
+
+
+Read sensor: OK
+Humidity (%): 84.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 24.08
+Dew PointFast (oC): 24.06
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 23.68
+Dew PointFast (oC): 23.66
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 23.68
+Dew PointFast (oC): 23.66
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 23.68
+Dew PointFast (oC): 23.66
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 23.68
+Dew PointFast (oC): 23.66
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 23.68
+Dew PointFast (oC): 23.66
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 23.48
+Dew PointFast (oC): 23.45
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 27.00
+Temperature (oF): 80.60
+Temperature (K): 300.15
+Dew Point (oC): 23.48
+Dew PointFast (oC): 23.45
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.70
+Dew PointFast (oC): 22.68
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.70
+Dew PointFast (oC): 22.68
+
+
+Read sensor: OK
+Humidity (%): 82.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.70
+Dew PointFast (oC): 22.68
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.50
+Dew PointFast (oC): 22.48
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.50
+Dew PointFast (oC): 22.48
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.50
+Dew PointFast (oC): 22.48
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.50
+Dew PointFast (oC): 22.48
+
+
+Read sensor: OK
+Humidity (%): 81.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.50
+Dew PointFast (oC): 22.48
+
+
+Read sensor: OK
+Humidity (%): 80.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.30
+Dew PointFast (oC): 22.27
+
+
+Read sensor: OK
+Humidity (%): 80.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.30
+Dew PointFast (oC): 22.27
+
+
+Read sensor: OK
+Humidity (%): 80.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.30
+Dew PointFast (oC): 22.27
+
+
+Read sensor: OK
+Humidity (%): 80.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.30
+Dew PointFast (oC): 22.27
+
+
+Read sensor: OK
+Humidity (%): 79.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.09
+Dew PointFast (oC): 22.07
+
+
+Read sensor: OK
+Humidity (%): 79.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.09
+Dew PointFast (oC): 22.07
+
+
+Read sensor: OK
+Humidity (%): 79.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.09
+Dew PointFast (oC): 22.07
+
+
+Read sensor: OK
+Humidity (%): 79.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 22.09
+Dew PointFast (oC): 22.07
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.88
+Dew PointFast (oC): 21.86
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 21.88
+Dew PointFast (oC): 21.86
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.91
+Dew PointFast (oC): 20.89
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.91
+Dew PointFast (oC): 20.89
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.70
+Dew PointFast (oC): 20.68
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.70
+Dew PointFast (oC): 20.68
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.70
+Dew PointFast (oC): 20.68
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.70
+Dew PointFast (oC): 20.68
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.70
+Dew PointFast (oC): 20.68
+
+
+Read sensor: OK
+Humidity (%): 75.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.28
+Dew PointFast (oC): 20.25
+
+
+Read sensor: OK
+Humidity (%): 75.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.28
+Dew PointFast (oC): 20.25
+
+
+Read sensor: OK
+Humidity (%): 75.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.28
+Dew PointFast (oC): 20.25
+
+
+Read sensor: OK
+Humidity (%): 75.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.28
+Dew PointFast (oC): 20.25
+
+
+Read sensor: OK
+Humidity (%): 74.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.06
+Dew PointFast (oC): 20.03
+
+
+Read sensor: OK
+Humidity (%): 74.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.06
+Dew PointFast (oC): 20.03
+
+
+Read sensor: OK
+Humidity (%): 74.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.06
+Dew PointFast (oC): 20.03
+
+
+Read sensor: OK
+Humidity (%): 74.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.06
+Dew PointFast (oC): 20.03
+
+
+Read sensor: OK
+Humidity (%): 74.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 20.06
+Dew PointFast (oC): 20.03
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 19.84
+Dew PointFast (oC): 19.81
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 19.84
+Dew PointFast (oC): 19.81
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 19.84
+Dew PointFast (oC): 19.81
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 19.84
+Dew PointFast (oC): 19.81
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 19.84
+Dew PointFast (oC): 19.81
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 19.84
+Dew PointFast (oC): 19.81
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 19.62
+Dew PointFast (oC): 19.59
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 19.62
+Dew PointFast (oC): 19.59
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 74.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.10
+Dew PointFast (oC): 19.07
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.74
+Dew PointFast (oC): 19.71
+
+
+Read sensor: OK
+Humidity (%): 79.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 20.15
+Dew PointFast (oC): 20.13
+
+
+Read sensor: OK
+Humidity (%): 79.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 20.15
+Dew PointFast (oC): 20.13
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.94
+Dew PointFast (oC): 19.92
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.74
+Dew PointFast (oC): 19.71
+
+
+Read sensor: OK
+Humidity (%): 75.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.31
+Dew PointFast (oC): 19.29
+
+
+Read sensor: OK
+Humidity (%): 75.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.31
+Dew PointFast (oC): 19.29
+
+
+Read sensor: OK
+Humidity (%): 74.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.10
+Dew PointFast (oC): 19.07
+
+
+Read sensor: OK
+Humidity (%): 74.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.10
+Dew PointFast (oC): 19.07
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 73.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.88
+Dew PointFast (oC): 18.85
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 72.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.66
+Dew PointFast (oC): 18.63
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 71.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.43
+Dew PointFast (oC): 18.41
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 70.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 18.21
+Dew PointFast (oC): 18.18
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 23.00
+Temperature (oF): 73.40
+Temperature (K): 296.15
+Dew Point (oC): 17.02
+Dew PointFast (oC): 17.00
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 69.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 17.98
+Dew PointFast (oC): 17.95
+
+
+Read sensor: OK
+Humidity (%): 74.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.10
+Dew PointFast (oC): 19.07
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.74
+Dew PointFast (oC): 19.71
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.94
+Dew PointFast (oC): 19.92
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.94
+Dew PointFast (oC): 19.92
+
+
+Read sensor: OK
+Humidity (%): 79.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 20.15
+Dew PointFast (oC): 20.13
+
+
+Read sensor: OK
+Humidity (%): 79.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 20.15
+Dew PointFast (oC): 20.13
+
+
+Read sensor: OK
+Humidity (%): 79.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 20.15
+Dew PointFast (oC): 20.13
+
+
+Read sensor: OK
+Humidity (%): 79.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 20.15
+Dew PointFast (oC): 20.13
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.94
+Dew PointFast (oC): 19.92
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.94
+Dew PointFast (oC): 19.92
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.94
+Dew PointFast (oC): 19.92
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.74
+Dew PointFast (oC): 19.71
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.74
+Dew PointFast (oC): 19.71
+
+
+Read sensor: OK
+Humidity (%): 76.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.52
+Dew PointFast (oC): 19.50
+
+
+Read sensor: OK
+Humidity (%): 76.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.52
+Dew PointFast (oC): 19.50
+
+
+Read sensor: OK
+Humidity (%): 76.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.52
+Dew PointFast (oC): 19.50
+
+
+Read sensor: OK
+Humidity (%): 75.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.31
+Dew PointFast (oC): 19.29
+
+
+Read sensor: OK
+Humidity (%): 75.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.31
+Dew PointFast (oC): 19.29
+
+
+Read sensor: OK
+Humidity (%): 75.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.31
+Dew PointFast (oC): 19.29
+
+
+Read sensor: OK
+Humidity (%): 78.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.94
+Dew PointFast (oC): 19.92
+
+
+Read sensor: OK
+Humidity (%): 77.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 19.74
+Dew PointFast (oC): 19.71
+
+
+Read sensor: OK
+Humidity (%): 89.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 22.09
+Dew PointFast (oC): 22.07
+
+
+Read sensor: OK
+Humidity (%): 93.00
+Temperature (oC): 24.00
+Temperature (oF): 75.20
+Temperature (K): 297.15
+Dew Point (oC): 22.81
+Dew PointFast (oC): 22.79
+
+
+Read sensor: OK
+Humidity (%): 93.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 23.80
+Dew PointFast (oC): 23.79
+
+
+Read sensor: OK
+Humidity (%): 93.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 23.80
+Dew PointFast (oC): 23.79
+
+
+Read sensor: OK
+Humidity (%): 93.00
+Temperature (oC): 25.00
+Temperature (oF): 77.00
+Temperature (K): 298.15
+Dew Point (oC): 23.80
+Dew PointFast (oC): 23.79
+
+
+Read sensor: OK
+Humidity (%): 93.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 24.80
+Dew PointFast (oC): 24.78
+
+
+Read sensor: OK
+Humidity (%): 93.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 24.80
+Dew PointFast (oC): 24.78
+
+
+Read sensor: OK
+Humidity (%): 93.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 24.80
+Dew PointFast (oC): 24.78
+
+
+Read sensor: OK
+Humidity (%): 93.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 24.80
+Dew PointFast (oC): 24.78
+
+
+Read sensor: OK
+Humidity (%): 93.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 24.80
+Dew PointFast (oC): 24.78
+
+
+Read sensor: OK
+Humidity (%): 93.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 24.80
+Dew PointFast (oC): 24.78
+
+
+Read sensor: OK
+Humidity (%): 93.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 24.80
+Dew PointFast (oC): 24.78
+
+
+Read sensor: OK
+Humidity (%): 92.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 24.61
+Dew PointFast (oC): 24.60
+
+
+Read sensor: OK
+Humidity (%): 92.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 24.61
+Dew PointFast (oC): 24.60
+
+
+Read sensor: OK
+Humidity (%): 92.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 24.61
+Dew PointFast (oC): 24.60
+
+
+Read sensor: OK
+Humidity (%): 92.00
+Temperature (oC): 26.00
+Temperature (oF): 78.80
+Temperature (K): 299.15
+Dew Point (oC): 24.61
+Dew PointFast (oC): 24.60
